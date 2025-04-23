@@ -31,7 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorushi&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="left">
-  <a href="https://solved.ac/mou8208">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mou8208" alt="Solved.ac Profile" />
-  </a>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mou8208)](https://solved.ac/mou8208/)
 </p>
